@@ -1,6 +1,6 @@
 {
   "name": "unifi-client",
-  "version": "0.11.1",
+  "version": "0.11.1-lineaje-01",
   "main": "lib/index.js",
   "description": "NodeJs client for Unifi products (https://www.ui.com/)",
   "scripts": {
@@ -45,9 +45,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/thib3113/unifi-client.git"
+    "url": "https://github.com/lineaje-labs-gos/thib3113-unifi-client"
   },
   "license": "MIT",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "engines": {
     "node": ">= 14"
   },
